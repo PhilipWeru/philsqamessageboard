@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'philsqamessageboard',
+    modulePrefix: 'answer-popularity',
     environment,
     rootURL: '/',
     locationType: 'auto',
